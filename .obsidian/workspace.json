@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "3377359d443fadd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4f0160d7abf0c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26b14fd11eb5f687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A2/Elements in HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80378f7a39cc6540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A2/HTML entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92f5143bb0142168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37b890f152d19e5a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4976b5976ea9533d",
+    "type": "split",
+    "children": [
+      {
+        "id": "10bbbdc621b0e548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace9c49e59898cf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a5c779db8c70197",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15de459cf5276cf2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3286cb45aa956f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a2622223e7d8a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd8774ac90a7022",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A2/HTML entities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe81a342e3d58f47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A2/HTML entities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3dcae1a84e7eabe7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6119a3f56915a71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A2/HTML entities.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "80378f7a39cc6540",
+  "lastOpenFiles": [
+    "A2/Elements in HTML.md",
+    "A2/HTML entities.md",
+    "nav.md",
+    "A2/Link.md",
+    "A2/Attributes.md",
+    "A2/02-HTML-Fundamentals/test.html",
+    "A2/Open link in new tab.md",
+    "Open.md",
+    "A2/Make own website.md",
+    "A2/head.md",
+    "A2/Image.md",
+    "A2/Comments.md",
+    "A2/List.md",
+    "A2/02-HTML-Fundamentals/alena_aenami-eclipse-catppuccin_purple_x4.png",
+    "A2/02-HTML-Fundamentals/index.html",
+    "A1/HTML Cheat.md",
+    "A2/index.html",
+    "index.html",
+    "A2/02-HTML-Fundamentals/related-3.jpg",
+    "A2/02-HTML-Fundamentals/related-2.jpg",
+    "A2/02-HTML-Fundamentals/related-1.jpg",
+    "A2/02-HTML-Fundamentals/post-img.jpg",
+    "A2/02-HTML-Fundamentals/laura-jones.jpg",
+    "A2/02-HTML-Fundamentals/content.txt",
+    "A2/02-HTML-Fundamentals/challenges.jpg",
+    "A2/02-HTML-Fundamentals",
+    "02-HTML-Fundamentals/related-3.jpg",
+    "02-HTML-Fundamentals/related-2.jpg",
+    "02-HTML-Fundamentals/related-1.jpg",
+    "02-HTML-Fundamentals/content.txt",
+    "02-HTML-Fundamentals",
+    "A2/final/07-Omnifood-Desktop/img/meals",
+    "A2/final/07-Omnifood-Desktop/img/logos",
+    "A2/final/07-Omnifood-Desktop/content.md",
+    "A2/final/09-Omnifood-Optimizations/content.md",
+    "A2/final/08-Omnifood-Responsive/content.md",
+    "A1/Static Website.md"
+  ]
+}
