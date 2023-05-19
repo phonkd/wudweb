@@ -28,7 +28,9 @@ Opening tag (<>) content (e.g IMG or child element) and Closing Tag <>/
 | [`<nav></nav>`](nav.md)                |                                                     |                      |
 | `<header></header>`                    | tells the browser that its the top part of the page |                      |
 | `<article></article> `                 | Used for setting articles                           |                      |
-| `<footer></footer>`                    | Footer (text on the bottom)                                                    |                      |
+| `<footer></footer>`                    | Footer (text on the bottom)                         |                      |
+| `<button>add to cart</button>`         |                                                     |                      |
+|                                        |                                                     |                      |
 
 
 

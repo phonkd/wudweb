@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A2/Elements in HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80378f7a39cc6540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A2/HTML entities.md",
+                "file": "A3/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3286cb45aa956f0e",
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2/HTML entities.md",
+                "file": "A3/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A2/HTML entities.md",
+                "file": "A3/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A2/HTML entities.md"
+                "file": "A3/CSS.md"
               }
             }
           }
@@ -180,9 +168,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80378f7a39cc6540",
+  "active": "26b14fd11eb5f687",
   "lastOpenFiles": [
+    "ressources/Pasted image 20230519200623.png",
+    "A2/Comments.md",
+    "A3/CSS.md",
     "A2/Elements in HTML.md",
+    "A3",
+    "A2/A3",
+    "A2/Challenge2/challenges.jpg",
+    "A2/Make own website.md",
+    "A2/Challenge2/index.html",
+    "A2/Challenge2",
+    "A2/Semantic HTML.md",
+    "A2/VSCODE extensions.md",
+    "A2/02-HTML-Fundamentals/img/alena_aenami-eclipse-catppuccin_purple_x4.png",
+    "A2/02-HTML-Fundamentals/img/challenges.jpg",
+    "A2/02-HTML-Fundamentals/img/laura-jones.jpg",
+    "A2/02-HTML-Fundamentals/img/post-img.jpg",
+    "A2/02-HTML-Fundamentals/img/related-1.jpg",
+    "A2/02-HTML-Fundamentals/img/related-2.jpg",
+    "A2/02-HTML-Fundamentals/img/related-3.jpg",
+    "A2/02-HTML-Fundamentals/img",
     "A2/HTML entities.md",
     "nav.md",
     "A2/Link.md",
@@ -190,10 +197,8 @@
     "A2/02-HTML-Fundamentals/test.html",
     "A2/Open link in new tab.md",
     "Open.md",
-    "A2/Make own website.md",
     "A2/head.md",
     "A2/Image.md",
-    "A2/Comments.md",
     "A2/List.md",
     "A2/02-HTML-Fundamentals/alena_aenami-eclipse-catppuccin_purple_x4.png",
     "A2/02-HTML-Fundamentals/index.html",
@@ -201,20 +206,7 @@
     "A2/index.html",
     "index.html",
     "A2/02-HTML-Fundamentals/related-3.jpg",
-    "A2/02-HTML-Fundamentals/related-2.jpg",
-    "A2/02-HTML-Fundamentals/related-1.jpg",
-    "A2/02-HTML-Fundamentals/post-img.jpg",
-    "A2/02-HTML-Fundamentals/laura-jones.jpg",
     "A2/02-HTML-Fundamentals/content.txt",
-    "A2/02-HTML-Fundamentals/challenges.jpg",
-    "A2/02-HTML-Fundamentals",
-    "02-HTML-Fundamentals/related-3.jpg",
-    "02-HTML-Fundamentals/related-2.jpg",
-    "02-HTML-Fundamentals/related-1.jpg",
-    "02-HTML-Fundamentals/content.txt",
-    "02-HTML-Fundamentals",
-    "A2/final/07-Omnifood-Desktop/img/meals",
-    "A2/final/07-Omnifood-Desktop/img/logos",
     "A2/final/07-Omnifood-Desktop/content.md",
     "A2/final/09-Omnifood-Optimizations/content.md",
     "A2/final/08-Omnifood-Responsive/content.md",
