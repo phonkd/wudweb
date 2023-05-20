@@ -8,35 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26b14fd11eb5f687",
+            "id": "03331b829877b184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A3/CSS.md",
+                "file": "A3/Properties CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92f5143bb0142168",
+            "id": "c3279d76f4de11f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nav.md",
+                "file": "A3/CSS/External  CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37b890f152d19e5a",
+            "id": "bfff1307ceb41d8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A3/Make own website.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3286cb45aa956f0e",
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A3/CSS.md",
+                "file": "A3/Properties CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A3/CSS.md",
+                "file": "A3/Properties CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A3/CSS.md"
+                "file": "A3/Properties CSS.md"
               }
             }
           }
@@ -168,48 +171,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26b14fd11eb5f687",
+  "active": "03331b829877b184",
   "lastOpenFiles": [
+    "A3/VSCODE extensions.md",
+    "A3/Properties CSS.md",
+    "A3/Semantic HTML.md",
+    "A3/Open link in new tab.md",
+    "A3/nav.md",
+    "A3/Make own website.md",
+    "A3/List.md",
+    "A3/Link.md",
+    "A3/CSS/internal css.md",
+    "A3/CSS/Inline CSS.md",
+    "A3/Image.md",
+    "A3/HTML entities.md",
+    "A3/CSS/External  CSS.md",
+    "A3/Elements in HTML.md",
+    "A3/Attributes.md",
+    "A3/Comments.md",
+    "A3/CSS",
+    "A3/CSS/CSS.md",
+    "A3/02-HTML-Fundamentals/styles.css",
+    "A3/Challenge2/index.html",
+    "A3/Challenge2/challenges.jpg",
+    "A3/Challenge2",
+    "A3/02-HTML-Fundamentals/test.html",
+    "A3/02-HTML-Fundamentals/img/related-3.jpg",
+    "A3/02-HTML-Fundamentals/img/related-2.jpg",
+    "A3/02-HTML-Fundamentals/img/related-1.jpg",
+    "A3/02-HTML-Fundamentals/img/post-img.jpg",
+    "A3/02-HTML-Fundamentals/img/laura-jones.jpg",
+    "A3/02-HTML-Fundamentals/img/challenges.jpg",
+    "A3/02-HTML-Fundamentals/img/alena_aenami-eclipse-catppuccin_purple_x4.png",
+    "A3/02-HTML-Fundamentals/img",
+    "A3/02-HTML-Fundamentals/content.txt",
+    "A3/02-HTML-Fundamentals/index.html",
+    "A3/02-HTML-Fundamentals",
+    "A3/head.md",
     "ressources/Pasted image 20230519200623.png",
     "A2/Comments.md",
-    "A3/CSS.md",
     "A2/Elements in HTML.md",
     "A3",
-    "A2/A3",
     "A2/Challenge2/challenges.jpg",
     "A2/Make own website.md",
-    "A2/Challenge2/index.html",
-    "A2/Challenge2",
     "A2/Semantic HTML.md",
     "A2/VSCODE extensions.md",
-    "A2/02-HTML-Fundamentals/img/alena_aenami-eclipse-catppuccin_purple_x4.png",
-    "A2/02-HTML-Fundamentals/img/challenges.jpg",
-    "A2/02-HTML-Fundamentals/img/laura-jones.jpg",
-    "A2/02-HTML-Fundamentals/img/post-img.jpg",
-    "A2/02-HTML-Fundamentals/img/related-1.jpg",
-    "A2/02-HTML-Fundamentals/img/related-2.jpg",
-    "A2/02-HTML-Fundamentals/img/related-3.jpg",
-    "A2/02-HTML-Fundamentals/img",
     "A2/HTML entities.md",
-    "nav.md",
     "A2/Link.md",
-    "A2/Attributes.md",
-    "A2/02-HTML-Fundamentals/test.html",
-    "A2/Open link in new tab.md",
-    "Open.md",
-    "A2/head.md",
-    "A2/Image.md",
-    "A2/List.md",
-    "A2/02-HTML-Fundamentals/alena_aenami-eclipse-catppuccin_purple_x4.png",
-    "A2/02-HTML-Fundamentals/index.html",
-    "A1/HTML Cheat.md",
-    "A2/index.html",
-    "index.html",
-    "A2/02-HTML-Fundamentals/related-3.jpg",
-    "A2/02-HTML-Fundamentals/content.txt",
-    "A2/final/07-Omnifood-Desktop/content.md",
-    "A2/final/09-Omnifood-Optimizations/content.md",
-    "A2/final/08-Omnifood-Responsive/content.md",
-    "A1/Static Website.md"
+    "A2/Attributes.md"
   ]
 }
