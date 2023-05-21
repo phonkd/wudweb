@@ -4,43 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f0160d7abf0c52",
+        "id": "ba77d46d062fea86",
         "type": "tabs",
+        "dimension": 58.81104033970276,
         "children": [
           {
-            "id": "03331b829877b184",
+            "id": "06e67dd320069f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A3/Properties CSS.md",
+                "file": "A3/CSS/Colors/RGB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3279d76f4de11f5",
+            "id": "6f802911400084ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A3/CSS/External  CSS.md",
+                "file": "A3/CSS/CSS  Selection.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "dbb8a9ec20a0acef",
+        "type": "tabs",
+        "dimension": 41.18895966029724,
+        "children": [
           {
-            "id": "bfff1307ceb41d8d",
+            "id": "cf80d8088e90e00f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "A3/Make own website.md",
-                "mode": "source",
-                "source": false
-              }
+                "terminal:terminal": {
+                  "cwd": "/home/phonkd/git/wudweb",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true,
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {},
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 49,
+                    "data": "CTRL-C pressed -- goodbye\r\n\r\n\u001b[31;1m➜ \u001b[32m \u001b[36mwudweb \u001b[34m(main) \u001b[0mnvim\u001b[26C\u001b[31m ✗\u001b[33m ✭\u001b[30m ✱\r\n\u001b[31;1m➜ \u001b[32m \u001b[36mwudweb \u001b[34m(main) \u001b[0mnvim .\u001b[24C\u001b[31m ✗\u001b[33m ✭\u001b[30m ✱\r\n\u001b[31;1m➜ \u001b[32m \u001b[36mwudweb \u001b[34m(main) \u001b[0mcode .---------------------------\u001b[1D\u001b[1X\u001b[A\u001b[23C\u001b[26X\u001b[23D\u001b[B\u001b[31C\u001b[31m ✗\u001b[33m ✭\u001b[30m ✱\r\n\u001b[31;1m➜ \u001b[32m \u001b[36mwudweb \u001b[34m(main) \u001b[25C\u001b[31;22m ✗\u001b[33m ✭\u001b[30m ✱\u001b[31D\u001b[0m",
+                    "rows": 53
+                  }
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -93,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3286cb45aa956f0e",
@@ -109,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A3/Properties CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A3/Properties CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A3/Properties CSS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,29 +200,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "03331b829877b184",
+  "active": "cf80d8088e90e00f",
   "lastOpenFiles": [
-    "A3/VSCODE extensions.md",
-    "A3/Properties CSS.md",
-    "A3/Semantic HTML.md",
-    "A3/Open link in new tab.md",
-    "A3/nav.md",
-    "A3/Make own website.md",
-    "A3/List.md",
-    "A3/Link.md",
-    "A3/CSS/internal css.md",
-    "A3/CSS/Inline CSS.md",
-    "A3/Image.md",
-    "A3/HTML entities.md",
+    "A3/CSS/Colors/RGB.md",
+    "A3/CSS/CSS  Selection.md",
+    "A3/CSS/Comments in CSS.md",
+    "A3/CSS/CSS basics.md",
     "A3/CSS/External  CSS.md",
-    "A3/Elements in HTML.md",
-    "A3/Attributes.md",
-    "A3/Comments.md",
+    "A3/CSS/Inline CSS.md",
+    "A3/CSS/internal css.md",
+    "A3/Font stuff.md",
+    "A3/Properties CSS.md",
+    "A3/VSCODE extensions.md",
+    "ressources/Pasted image 20230521135133.png",
+    "A3/CSS/Colors",
+    "A3/02-HTML-Fundamentals/index.html",
+    "styles 1.css",
+    "test.css.md",
+    "A3/CSS/obsidian css experiment/Untitled.md",
+    "A3/CSS/obsidian css experiment/huan.css.md",
+    "A3/CSS/obsidian css experiment",
+    "A3/CSS/Untitled.md",
+    "A2/nav.md",
+    "A2/Attributes.md",
+    "A2/Image.md",
+    "A2/head.md",
+    "A2/HTML entities.md",
+    "A2/Link.md",
+    "A2/List.md",
+    "A2/Make own website.md",
+    "A2/Open link in new tab.md",
+    "A2/Semantic HTML.md",
+    "A2/VSCODE extensions.md",
     "A3/CSS",
-    "A3/CSS/CSS.md",
     "A3/02-HTML-Fundamentals/styles.css",
     "A3/Challenge2/index.html",
     "A3/Challenge2/challenges.jpg",
@@ -204,20 +250,6 @@
     "A3/02-HTML-Fundamentals/img/challenges.jpg",
     "A3/02-HTML-Fundamentals/img/alena_aenami-eclipse-catppuccin_purple_x4.png",
     "A3/02-HTML-Fundamentals/img",
-    "A3/02-HTML-Fundamentals/content.txt",
-    "A3/02-HTML-Fundamentals/index.html",
-    "A3/02-HTML-Fundamentals",
-    "A3/head.md",
-    "ressources/Pasted image 20230519200623.png",
-    "A2/Comments.md",
-    "A2/Elements in HTML.md",
-    "A3",
-    "A2/Challenge2/challenges.jpg",
-    "A2/Make own website.md",
-    "A2/Semantic HTML.md",
-    "A2/VSCODE extensions.md",
-    "A2/HTML entities.md",
-    "A2/Link.md",
-    "A2/Attributes.md"
+    "ressources/Pasted image 20230519200623.png"
   ]
 }

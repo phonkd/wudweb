@@ -1,4 +1,8 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "ressources"
+  "attachmentFolderPath": "ressources",
+  "promptDelete": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

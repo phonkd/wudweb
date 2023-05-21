@@ -18,14 +18,6 @@
 
 **All together is a CSS rule**
 ![](Pasted%20image%2020230519200623.png)
-## Select elements to style:
 
->[!tip] style all h1 elements
->(CSS)
->```css
->h1{
->	color:blue;
->	text-align: center;
->	font-size: 20px;
->}
->```
+
+[CSS  Selection](CSS%20%20Selection.md)
