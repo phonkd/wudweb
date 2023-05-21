@@ -1,10 +1,11 @@
-***
+i***
 >[!tip]- Best practice
 >- For normal colors use the [HEXADECIMAL format](#HEXADECIMAL%20notation:) 
 >- For colors with transparency use the [RGBA](#RGBA) format.
 >
 
-## RGB
+## i
+RGB
 >[!info]
 >*All colors are specified with a Red, Green and Blue value:*
 >**R**: Red

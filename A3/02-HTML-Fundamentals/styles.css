@@ -1,31 +1,30 @@
 h1,
 h2,
 h3,
-h4,
-p,
-li {
+h4 {
   font-family: sans-serif;
+  color: #fabd2f;
 }
-h1 {
-  color: #dda0dd;
+
+.top-header {color: #302f2e;
   font-size: 26px;
   text-transform: uppercase;
   font-style: italic;
   text-align: center;
+background-color: #383534;
 }
 
 h2 {
   font-size: 40px;
 }
 
-p {
+p,
+li {
   font-size: 22px;
   line-height: 1.5;
+  color: #fff;
 }
 
-li {
-  font-size: 16px;
-}
 /*
 footer p {
    font-size: 16px;
@@ -46,4 +45,47 @@ footer p {
 
 .related-2 {
   list-style: none;
+}
+
+aside {
+  background-color: #3a2d25;
+  border: 5px solid #1098ad;
+  border-radius: 10% 10%;
+}
+body {
+  background-color: #282828; 
+}
+
+img {
+  border: 5px solid #3a2d25;
+  border-radius: 5% 5%;
+}
+
+li:hover {
+  color: #ff00ff;
+}
+
+li:last-child {
+  font-style: italic;
+}
+li:first-child {
+  font-weight: bold;
+}
+li:nth-child(6) {
+  font-weight: bold
+}
+
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+a:visited {
+  color: #777;
+}
+a:hover {
+  text-decoration: underline dotted orangered;
+  color: #ff00ff;
+}
+a:active{
+background-color: black;
 }
