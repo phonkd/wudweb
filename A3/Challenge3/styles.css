@@ -1,0 +1,32 @@
+body {
+  border: 5px solid #000000;
+  font-family: sans-serif;
+}
+.sitetitle {
+  text-align: center;
+  background-color: #d4d8d9;
+  font-weight: bold;
+}
+
+.addtocart {
+  background-color: #000;
+  color: #fff;  
+}
+a:link {
+  color: blue
+}
+a:visited {
+  color: #f777
+}
+a:hover {
+  color:#ff00ff;
+  text-decoration: none;
+}
+button:hover {
+  background-color: #fff;
+}
+
+ul,
+ol {
+list-style: square
+}

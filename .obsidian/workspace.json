@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba77d46d062fea86",
+        "id": "95b93c01e8a0d39f",
         "type": "tabs",
         "children": [
           {
-            "id": "71aa26fcf096eed4",
+            "id": "1d82ec5c3a4ecbc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A3/CSS/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14cf4ac3d0b644a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A3/Font stuff.md",
+                "file": "Pro tips/Back to top arrow.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "italic",
+                "query": "button",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A3/CSS/Untitled.md",
+                "file": "Pro tips/Back to top arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A3/CSS/Untitled.md",
+                "file": "Pro tips/Back to top arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A3/CSS/Untitled.md"
+                "file": "Pro tips/Back to top arrow.md"
               }
             }
+          },
+          {
+            "id": "cecffff8352cc82b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,57 +153,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71aa26fcf096eed4",
+  "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
-    "A3/CSS/Pseudo classes.md",
-    "A3/CSS/Untitled.md",
-    "A3/Font stuff.md",
-    "A3/CSS/Colors/RGB.md",
-    "A3/Properties CSS.md",
-    "A3/VSCODE extensions.md",
-    "A3/CSS/CSS basics.md",
-    "A3/CSS/External  CSS.md",
+    "A3/Positioning.md",
+    "Pro tips/Back to top arrow.md",
+    "ressources/Pasted image 20230529223815.png",
+    "A2/Link.md",
+    "A2/Elements in HTML.md",
+    "A2/Semantic HTML.md",
+    "A2/Attributes.md",
+    "Pro tips/horizontal line.md",
+    "A3/CSS/Multiple classes on one element.md",
     "A3/CSS/CSS  Selection.md",
+    "A3/box.md",
+    "A3/boxes.md",
+    "A3/Font stuff.md",
+    "A3/CSS/Align Website to center.md",
+    "A3/CSS/External  CSS.md",
+    "A3/CSS/Global reset.md",
     "A3/CSS/Inline CSS.md",
     "A3/CSS/internal css.md",
+    "A3/CSS/Pseudo classes.md",
+    "A2/Image.md",
+    "ressources/Pasted image 20230529191952.png",
+    "ressources/Pasted image 20230529183127.png",
+    "A3/Properties CSS.md",
     "A3/CSS/Comments in CSS.md",
+    "A3/CSS/CSS basics.md",
+    "A3/VSCODE extensions.md",
+    "border.md",
+    "A3/Challenge4/index.html",
+    "A3/Challenge4/styles.css",
+    "A3/Challenge4/challenges.jpg",
+    "A3/Challenge4",
+    "A3/02-HTML-Fundamentals/testt.html",
+    "Pro tips/smooth scroll.md",
+    "Pro tips",
+    "ressources/Pasted image 20230529143119.png",
+    "ressources/Pasted image 20230529142618.png",
+    "A2/Make own website.md",
+    "A2/Challenge2/challenges.jpg",
+    "ressources/Pasted image 20230522193739.png",
+    "A3/CSS/Theory",
+    "ressources/Pasted image 20230519200623.png",
     "ressources/Pasted image 20230521135133.png",
     "A3/CSS/Colors",
     "A3/02-HTML-Fundamentals/index.html",
     "styles 1.css",
-    "test.css.md",
-    "A3/CSS/obsidian css experiment/Untitled.md",
-    "A3/CSS/obsidian css experiment/huan.css.md",
-    "A3/CSS/obsidian css experiment",
-    "A2/nav.md",
-    "A2/Attributes.md",
-    "A2/Image.md",
-    "A2/head.md",
-    "A2/HTML entities.md",
-    "A2/Link.md",
-    "A2/List.md",
-    "A2/Make own website.md",
-    "A2/Open link in new tab.md",
-    "A2/Semantic HTML.md",
-    "A2/VSCODE extensions.md",
-    "A3/CSS",
-    "A3/02-HTML-Fundamentals/styles.css",
-    "A3/Challenge2/index.html",
-    "A3/Challenge2/challenges.jpg",
-    "A3/Challenge2",
-    "A3/02-HTML-Fundamentals/test.html",
-    "A3/02-HTML-Fundamentals/img/related-3.jpg",
-    "A3/02-HTML-Fundamentals/img/related-2.jpg",
-    "A3/02-HTML-Fundamentals/img/related-1.jpg",
-    "A3/02-HTML-Fundamentals/img/post-img.jpg",
-    "A3/02-HTML-Fundamentals/img/laura-jones.jpg",
-    "A3/02-HTML-Fundamentals/img/challenges.jpg",
-    "A3/02-HTML-Fundamentals/img/alena_aenami-eclipse-catppuccin_purple_x4.png",
-    "A3/02-HTML-Fundamentals/img",
-    "ressources/Pasted image 20230519200623.png"
+    "A3/CSS/obsidian css experiment"
   ]
 }

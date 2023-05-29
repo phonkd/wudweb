@@ -5,13 +5,19 @@ h4 {
   font-family: sans-serif;
   color: #fabd2f;
 }
-
-.top-header {color: #302f2e;
+html {
+  scroll-behavior: smooth;
+}
+.top-header {
+  color: #302f2e;
   font-size: 26px;
   text-transform: uppercase;
   font-style: italic;
   text-align: center;
-background-color: #383534;
+  background-color: #383534;
+  padding: 5px;
+  border: 7px solid #000;
+  border-radius: 1em 1em;
 }
 
 h2 {
@@ -53,7 +59,7 @@ aside {
   border-radius: 10% 10%;
 }
 body {
-  background-color: #282828; 
+  background-color: #282828;
 }
 
 img {
@@ -72,7 +78,7 @@ li:first-child {
   font-weight: bold;
 }
 li:nth-child(6) {
-  font-weight: bold
+  font-weight: bold;
 }
 
 a:link {
@@ -86,6 +92,11 @@ a:hover {
   text-decoration: underline dotted orangered;
   color: #ff00ff;
 }
-a:active{
-background-color: black;
+a:active {
+  background-color: black;
+}
+.allbox {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
