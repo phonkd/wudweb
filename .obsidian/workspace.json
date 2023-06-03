@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pro tips/Back to top arrow.md",
+                "file": "A3/boxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a74973057cbef33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A3/Positioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pro tips/Back to top arrow.md",
+                "file": "A3/boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pro tips/Back to top arrow.md",
+                "file": "A3/boxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pro tips/Back to top arrow.md"
+                "file": "A3/boxes.md"
               }
             }
           },
@@ -159,7 +171,33 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
+    "A3/Font stuff.md",
     "A3/Positioning.md",
+    "A3/Properties CSS.md",
+    "A3/Pseudo elements.md",
+    "A3/VSCODE extensions.md",
+    "A3/CSS/Colors/RGB.md",
+    "A3/CSS/CSS  Selection.md",
+    "A3/CSS/CSS basics.md",
+    "A3/CSS/External  CSS.md",
+    "A3/CSS/Global reset.md",
+    "A3/CSS/Inline CSS.md",
+    "A3/CSS/internal css.md",
+    "A3/CSS/Multiple classes on one element.md",
+    "A3/CSS/Pseudo classes.md",
+    "A3/adjescent sibling selector.md",
+    "A3/After and before.md",
+    "A3/boxes.md",
+    "A3/box.md",
+    "A3/Challenge5/styles.css",
+    "A3/Challenge5/index.html",
+    "A3/Challenge5/challenges.jpg",
+    "A3/Challenge5",
+    "A3/Challenge4 copy/styles.css",
+    "A3/Challenge4 copy/index.html",
+    "A3/Challenge4 copy/challenges.jpg",
+    "A3/Challenge4 copy",
+    "Pro tips/Pointer to hand.md",
     "Pro tips/Back to top arrow.md",
     "ressources/Pasted image 20230529223815.png",
     "A2/Link.md",
@@ -167,43 +205,17 @@
     "A2/Semantic HTML.md",
     "A2/Attributes.md",
     "Pro tips/horizontal line.md",
-    "A3/CSS/Multiple classes on one element.md",
-    "A3/CSS/CSS  Selection.md",
-    "A3/box.md",
-    "A3/boxes.md",
-    "A3/Font stuff.md",
     "A3/CSS/Align Website to center.md",
-    "A3/CSS/External  CSS.md",
-    "A3/CSS/Global reset.md",
-    "A3/CSS/Inline CSS.md",
-    "A3/CSS/internal css.md",
-    "A3/CSS/Pseudo classes.md",
-    "A2/Image.md",
     "ressources/Pasted image 20230529191952.png",
     "ressources/Pasted image 20230529183127.png",
-    "A3/Properties CSS.md",
-    "A3/CSS/Comments in CSS.md",
-    "A3/CSS/CSS basics.md",
-    "A3/VSCODE extensions.md",
-    "border.md",
     "A3/Challenge4/index.html",
     "A3/Challenge4/styles.css",
     "A3/Challenge4/challenges.jpg",
     "A3/Challenge4",
     "A3/02-HTML-Fundamentals/testt.html",
-    "Pro tips/smooth scroll.md",
-    "Pro tips",
     "ressources/Pasted image 20230529143119.png",
     "ressources/Pasted image 20230529142618.png",
-    "A2/Make own website.md",
     "A2/Challenge2/challenges.jpg",
-    "ressources/Pasted image 20230522193739.png",
-    "A3/CSS/Theory",
-    "ressources/Pasted image 20230519200623.png",
-    "ressources/Pasted image 20230521135133.png",
-    "A3/CSS/Colors",
-    "A3/02-HTML-Fundamentals/index.html",
-    "styles 1.css",
-    "A3/CSS/obsidian css experiment"
+    "ressources/Pasted image 20230522193739.png"
   ]
 }
