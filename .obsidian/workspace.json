@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A4/Float layout (old).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "203cabf7f05d5edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A3/Positioning.md",
+                "file": "A4/Clear floats.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4/Float layout (old).md",
+                "file": "A4/Clear floats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A4/Float layout (old).md",
+                "file": "A4/Clear floats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A4/Float layout (old).md"
+                "file": "A4/Clear floats.md"
               }
             }
           },
@@ -171,29 +159,38 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
-    "A4/CSS Grid.md",
-    "A4/Code/sh.sh",
-    "A4/Code/images/SpaceMono.zip",
-    "A4/Code/images/14.jpg",
-    "A4/Code/images/11.jpg",
-    "A4/Code/images/18.jpg",
-    "A4/Code/images/17.jpg",
-    "A4/Code/images/urban/02.png",
-    "A4/Code/images/urban/11.jpg",
-    "A4/Code/images/urban/10.jpg",
-    "A4/Code/images/urban/09.jpg",
-    "A4/Code/images/urban/08.jpg",
-    "A4/Code/images/urban/07.jpg",
-    "A4/Code/images/urban",
-    "A4/Code/images/gruvbox",
-    "A4/Code/images",
-    "A4/Code/styles.css",
-    "A4/Code/index.html",
-    "A4/Code",
-    "A4/Flexbox.md",
     "A4/Float layout (old).md",
-    "A4/Layout.md",
+    "A4/Clear floats.md",
     "A3/Positioning.md",
+    "ressources/Pasted image 20230606152626.png",
+    "ressources/Pasted image 20230606152608.png",
+    "ressources/Pasted image 20230606151837.png",
+    "A4/Layout.md",
+    "A4/04-code/style.css",
+    "A4/04-code/index.html",
+    "A4/04-code/img/related-1.jpg",
+    "A4/04-code/img/post-img.jpg",
+    "A4/04-code/img/laura-jones.jpg",
+    "A4/04-code/img/challenges.jpg",
+    "A4/04-code/img",
+    "A4/04-code/content.txt",
+    "A4/04-code/blog.html",
+    "A4/04-code",
+    "A4/04-code 1/style.css",
+    "A4/04-code 1/index.html",
+    "A4/04-code 1/img/related-3.jpg",
+    "A4/04-code 1/img/related-1.jpg",
+    "A4/04-code 1/img/related-2.jpg",
+    "A4/04-code 1/img",
+    "A4/04-code 1/flexbox.html",
+    "Pro tips/Back to top arrow.md",
+    "Pro tips/horizontal line.md",
+    "Pro tips/Pointer to hand.md",
+    "Pro tips/smooth scroll.md",
+    "border.md",
+    "A3/CSS/Inline CSS.md",
+    "A4/CSS Grid.md",
+    "A4/Flexbox.md",
     "A3/boxes.md",
     "A3/Font stuff.md",
     "A3/Properties CSS.md",
@@ -204,17 +201,9 @@
     "A3/CSS/CSS basics.md",
     "A3/CSS/External  CSS.md",
     "A3/CSS/Global reset.md",
-    "A3/CSS/Inline CSS.md",
     "A3/CSS/internal css.md",
     "A3/CSS/Multiple classes on one element.md",
     "A3/CSS/Pseudo classes.md",
-    "A3/adjescent sibling selector.md",
-    "A3/After and before.md",
-    "A3/box.md",
-    "A3/Challenge5/styles.css",
-    "A3/Challenge5/index.html",
-    "Pro tips/Pointer to hand.md",
-    "Pro tips/Back to top arrow.md",
-    "A2/Link.md"
+    "A3/adjescent sibling selector.md"
   ]
 }
