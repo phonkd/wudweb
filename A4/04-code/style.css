@@ -2,6 +2,7 @@
   /* border-top: 10px solid #1098ad; */
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 /* PAGE SECTIONS */
@@ -282,16 +283,15 @@ h1 {
 }
 
 article {
-  background-color: green;
   width: 70%;
   float: left;
 }
 aside {
-  background-color: red;
   width: 25%;
   float: right;
+  padding: 40px;
+  box-sizing: border-box;
 }
 footer {
-  background-color: #ffe70e;
   clear: both;
 }
