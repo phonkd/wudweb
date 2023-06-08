@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A4/Float layout (old).md",
+                "file": "A4/Flexbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "button",
+                "query": "margin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4/Float layout (old).md",
+                "file": "A4/Flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A4/Float layout (old).md",
+                "file": "A4/Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A4/Float layout (old).md"
+                "file": "A4/Flexbox.md"
               }
             }
           },
@@ -159,14 +160,21 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
+    "A2/Attributes.md",
+    "A3/boxes.md",
+    "A2/Image.md",
+    "A3/CSS/Align Website to center.md",
+    "A3/box.md",
+    "A4/Flexbox.md",
+    "A4/walls/a.css",
+    "A4/walls/2.css",
+    "A4/walls/2.html",
+    "ressources/Pasted image 20230608230824.png",
+    "A4/Float layout (old).md",
     "A4/Clear floats.md",
     "A4/box model border box.md",
-    "A4/Float layout (old).md",
     "A4/Layout.md",
-    "A4/Flexbox.md",
     "A4/CSS Grid.md",
-    "A3/boxes.md",
-    "A3/CSS/Align Website to center.md",
     "border.md",
     "ressources/all-design-guidelines.pdf",
     "Pro tips/horizontal line.md",
@@ -183,13 +191,9 @@
     "ressources/Pasted image 20230606152626.png",
     "ressources/Pasted image 20230606152608.png",
     "ressources/Pasted image 20230606151837.png",
-    "A4/04-code/style.css",
-    "A4/04-code/index.html",
     "A4/04-code/img/related-1.jpg",
     "A4/04-code/img/post-img.jpg",
     "A4/04-code/img/laura-jones.jpg",
-    "A4/04-code/img/challenges.jpg",
-    "A4/04-code/img",
     "Pro tips/Back to top arrow.md",
     "Pro tips/Pointer to hand.md",
     "Pro tips/smooth scroll.md",
@@ -201,9 +205,6 @@
     "A3/CSS/Colors/RGB.md",
     "A3/CSS/CSS  Selection.md",
     "A3/CSS/CSS basics.md",
-    "A3/CSS/External  CSS.md",
-    "A3/CSS/Global reset.md",
-    "A3/CSS/internal css.md",
-    "A3/CSS/Multiple classes on one element.md"
+    "A3/CSS/External  CSS.md"
   ]
 }
