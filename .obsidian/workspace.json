@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3286cb45aa956f0e",
@@ -160,6 +161,7 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
+    "ressources/Pasted image 20230609111208.png",
     "A2/Attributes.md",
     "A3/boxes.md",
     "A2/Image.md",
@@ -204,7 +206,6 @@
     "A3/VSCODE extensions.md",
     "A3/CSS/Colors/RGB.md",
     "A3/CSS/CSS  Selection.md",
-    "A3/CSS/CSS basics.md",
-    "A3/CSS/External  CSS.md"
+    "A3/CSS/CSS basics.md"
   ]
 }
