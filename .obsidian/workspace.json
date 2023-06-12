@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A4/Flexbox.md",
+                "file": "A4/flexcontainer GAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3286cb45aa956f0e",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4/Flexbox.md",
+                "file": "A4/flexcontainer GAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A4/Flexbox.md",
+                "file": "A4/flexcontainer GAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A4/Flexbox.md"
+                "file": "A4/flexcontainer GAP.md"
               }
             }
           },
@@ -161,13 +159,14 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
+    "A4/Flexbox.md",
+    "A4/flexcontainer GAP.md",
     "ressources/Pasted image 20230609111208.png",
     "A2/Attributes.md",
     "A3/boxes.md",
     "A2/Image.md",
     "A3/CSS/Align Website to center.md",
     "A3/box.md",
-    "A4/Flexbox.md",
     "A4/walls/a.css",
     "A4/walls/2.css",
     "A4/walls/2.html",
@@ -195,7 +194,6 @@
     "ressources/Pasted image 20230606151837.png",
     "A4/04-code/img/related-1.jpg",
     "A4/04-code/img/post-img.jpg",
-    "A4/04-code/img/laura-jones.jpg",
     "Pro tips/Back to top arrow.md",
     "Pro tips/Pointer to hand.md",
     "Pro tips/smooth scroll.md",

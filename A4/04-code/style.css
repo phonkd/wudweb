@@ -295,3 +295,10 @@ aside {
 footer {
   clear: both;
 }
+.el--1 {
+  align-self: flex-start;
+}
+
+.el--5 {
+  align-self: stretch;
+}

@@ -11,7 +11,7 @@
 
 | Property | Does | Example Value |
 | --- | --- | --- |
-| `align-items:` | Centers all items vertically of heighest element | `center / baseline` |
+| `align-items:` | Centers all flex items vertically of heighest element | `center / baseline` |
 | `align-items:` | Put all elements to top/bottom of highest element | `flex-start/end` |
 | `align-items:` | All items are as tall as talles element (default) | `stretch` |
 | `justify-content:` | Center content horizontally | `center` |
@@ -25,11 +25,12 @@
 
 | Property | Does | example value |
 | --- | --- | --- |
-| `align-self: | Overwrite align-items for individual flex items` | `auto` `stretch` `flex-start/end` `center` `baseline` |  |
+| `align-self:` | Overwrite align-items for individual flex items` | `auto` `stretch` `flex-start/end` `center` `baseline` |  |
 | `flex-grow:` | Allow an element to grow | `1`+ (yes) `0` no |
 | `flex-shrink:` | allow an element to shrink | `0` no `1`+ yes |
 | `flex-basis:` | define an item's width instead of the width property | `length` |
 | `flex: 0 1 auto` | Shorthand for `flex-grow, flex-shrink, -basis` |  |
+| `order:` | Controls order of items | `-1`(first) `1` (last) |
 **Example**
 ![](Pasted%20image%2020230608230824.png) ^e7c94d
 
