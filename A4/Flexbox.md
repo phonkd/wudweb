@@ -45,3 +45,12 @@
 - Items in this container are called **flex items** ^d40cd9
 - Directon of how the [flex items](Flexbox#^d40cd9) are layed out is called **Main axis**
 - The other axis is called Cross axis:
+
+
+>[!note] Flex-shrink
+>With (`flex-shrink: 0;`) flex items will grow bigger than the container (ignore its parent size).
+
+>[!info] Flex-grow note
+>With `flex-grow:` set to `1;` flex items will grow to the max of their flex container.
+>This can also be applied to one of many elements (all elements have minimal size but the one with it will use the rest of the space)
+

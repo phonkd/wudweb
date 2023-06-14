@@ -34,32 +34,41 @@
 .el--1 {
   align-self: flex-start;
 }
+.el {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
 
 .el--5 {
   align-self: stretch;
+  order: 1;
 }
-      .container {
-        /* STARTER */
-        font-family: sans-serif;
-        background-color: #ddd;
-        font-size: 40px;
-        margin: 40px;
-        display: flex;
-        /* CSS GRID */
-      }
+.el--6 {
+  order: -1;
+}
+.container {
+/* STARTER */
+font-family: sans-serif;
+background-color: #ddd;
+font-size: 40px;
+margin: 40px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+/* CSS GRID */
+}
 
-      .container--2 {
-        /* STARTER */
-        font-family: sans-serif;
-        background-color: black;
-        font-size: 40px;
-        margin: 100px;
-
-        width: 1000px;
-        height: 600px;
-
-        /* CSS GRID */
-      }
+.container--2 {
+/* STARTER */
+font-family: sans-serif;
+background-color: black;
+font-size: 40px;
+margin: 100px;
+width: 1000px;
+height: 600px;
+/* CSS GRID */
+}
     </style>
   </head>
   <body>
