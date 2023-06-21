@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A4/Flexbox.md",
+                "file": "A4/box model border box.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flex-shrink",
+                "query": "box-sizi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4/Flexbox.md",
+                "file": "A4/box model border box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A4/Flexbox.md",
+                "file": "A4/box model border box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A4/Flexbox.md"
+                "file": "A4/box model border box.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
-    "A4/flexcontainer GAP.md",
     "A4/Flexbox.md",
+    "A4/flexcontainer GAP.md",
     "ressources/Pasted image 20230609111208.png",
     "A2/Attributes.md",
     "A3/boxes.md",

@@ -15,7 +15,7 @@
 | `align-items:` | Put all elements to top/bottom of highest element | `flex-start/end` |
 | `align-items:` | All items are as tall as talles element (default) | `stretch` |
 | `justify-content:` | Center content horizontally | `center` |
-| `justify-content:` | Distribute space evenly between elements [See here](Flexbox#^e7c94d) | `space-between/around/evenly` |
+| `justify-content:` | Distribute space evenly between elements (uses max space) [See here](Flexbox#^e7c94d) | `space-between/around/evenly` |
 | `gap` | Create space between items without using margin | `length` |
 | `flex-direction:` | Define the main axis | `row`/`row-reverse`/`column`/`column-reverse` |
 | `flex-wrap` | To allow items to wrap into a new line if they are too large | `nowrap`,`wrap`,`wrap-reverse` |
