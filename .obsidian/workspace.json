@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A4/box model border box.md",
+                "file": "A4/Flexbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4/box model border box.md",
+                "file": "A4/Flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A4/box model border box.md",
+                "file": "A4/Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A4/box model border box.md"
+                "file": "A4/Flexbox.md"
               }
             }
           },
@@ -168,7 +167,19 @@
   },
   "active": "1d82ec5c3a4ecbc8",
   "lastOpenFiles": [
+    "A4/challenge2/style.css",
+    "A4/challenge2/link.txt",
+    "A4/challenge2/index.html",
+    "A4/challenge2/challenges.jpg",
+    "A4/challenge2",
+    "A4/challenge1 copy/style.css",
+    "A4/challenge1 copy/link.txt",
+    "A4/challenge1 copy/index.html",
+    "A4/challenge1 copy/challenges.jpg",
+    "A4/challenge1 copy",
     "A4/Flexbox.md",
+    "A4/CSS Grid.md",
+    "A4/box model border box.md",
     "A4/flexcontainer GAP.md",
     "ressources/Pasted image 20230609111208.png",
     "A2/Attributes.md",
@@ -182,27 +193,16 @@
     "ressources/Pasted image 20230608230824.png",
     "A4/Float layout (old).md",
     "A4/Clear floats.md",
-    "A4/box model border box.md",
     "A4/Layout.md",
-    "A4/CSS Grid.md",
     "border.md",
-    "ressources/all-design-guidelines.pdf",
     "Pro tips/horizontal line.md",
     "A4/challenge1/challenges.jpg",
-    "A4/challenge1/img",
-    "A4/challenge1/style.css",
-    "A4/challenge1/index.html",
-    "A4/challenge1/link.txt",
-    "A4/challenge1/styles.css",
-    "A4/challenge1",
     "ressources/Pasted image 20230606211304.png",
     "ressources/Pasted image 20230606211225.png",
     "A3/Positioning.md",
     "ressources/Pasted image 20230606152626.png",
     "ressources/Pasted image 20230606152608.png",
     "ressources/Pasted image 20230606151837.png",
-    "A4/04-code/img/related-1.jpg",
-    "A4/04-code/img/post-img.jpg",
     "Pro tips/Back to top arrow.md",
     "Pro tips/Pointer to hand.md",
     "Pro tips/smooth scroll.md",
@@ -212,7 +212,6 @@
     "A3/Pseudo elements.md",
     "A3/VSCODE extensions.md",
     "A3/CSS/Colors/RGB.md",
-    "A3/CSS/CSS  Selection.md",
-    "A3/CSS/CSS basics.md"
+    "A3/CSS/CSS  Selection.md"
   ]
 }

@@ -13,10 +13,8 @@ body {
 }
 
 .container {
-  width: 1200px;
   /* margin-left: auto;
   margin-right: auto; */
-  margin: 0 auto;
 }
 
 .main-header {
@@ -32,10 +30,6 @@ body {
 nav {
   font-size: 18px;
   /* text-align: center; */
-}
-
-article {
-  margin-bottom: 60px;
 }
 
 .post-header {
@@ -286,4 +280,19 @@ footer {
 .related-link:link {
   display: block;
   align-items: center;
+}
+
+.row {
+  display: flex;
+  gap: 75px;
+  align-items: flex-start;
+}
+
+aside {
+  flex: 0 0 300px;
+}
+
+article {
+  flex: 1;
+  flex: 0 0 825px;
 }
